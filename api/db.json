@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "description": "Here's some stream",
+      "title": "Other Stream",
+      "id": 2
+    },
+    {
+      "title": "Stream Component Reuse",
+      "description": "This stream is about refactoring!",
+      "id": 4
+    },
+    {
+      "title": "Testing react-final-form",
+      "description": "Just testing migration to final form! Everything seems to work fine!!!",
+      "userId": "108048158097653905599",
+      "id": 5
+    }
+  ]
+}
