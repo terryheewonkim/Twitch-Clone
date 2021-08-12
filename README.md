@@ -36,3 +36,7 @@ api subdirectory:
 _Remember to run `npm install` for all three subdirectories to get everything downloaded!_
 
 Run `npm start` for all three subdirectories and view the browser at [http://localhost:3000](http://localhost:3000)
+
+## Demo
+
+Here's a quick [demo of the project!](https://drive.google.com/file/d/1IVbaxWLAS_s9Bsyml1BCbsYDCmtx6qQs/view?usp=sharing)
